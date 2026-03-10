@@ -71,5 +71,6 @@ Technologies: R, statistical modeling, data visualization
 
 ## Contact
 
-LinkedIn: *linkedin.com/in/robert-tapia-b9604a228*
-GitHub: *https://github.com/APiratesFavoriteLanguageisR*
+LinkedIn: https://linkedin.com/in/robert-tapia-b9604a228
+
+GitHub: https://github.com/APiratesFavoriteLanguageisR

@@ -31,6 +31,10 @@ My interests include analytics engineering, data pipelines, machine learning, an
 * LLM applications
 * AI agents
 
+**Version Control**
+* Git
+& Github/Gitlab
+
 ## Projects
 
 ### NYC Taxi ETL Pipeline
@@ -56,6 +60,14 @@ Technologies: R, statistical modeling, data visualization
 * Expanding a modular ETL pipeline for large scale datasets
 * Building analytics engineering style workflows
 * Developing AI agent based research tools
+
+## Skills Currently Being Developed
+* Apache Spark, Airflow, Kafka
+* Dbt
+* Docker
+* Databricks/Snowflake
+* Cloud Warehouses
+* Database Creation
 
 ## Contact
 

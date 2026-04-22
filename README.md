@@ -75,4 +75,3 @@ LinkedIn: https://linkedin.com/in/robert-tapia-b9604a228
 
 GitHub: https://github.com/APiratesFavoriteLanguageisR
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=APiratesFavoriteLanguageisR)](https://github.com/anuraghazra/github-readme-stats)
